@@ -1,6 +1,6 @@
 ##Activité Pratique N°2 : ORM, Jpa, Hibernate Spring Data##
 
-1/Créer l'entité JPA Patient 
+1/Création de l'entité JPA Patient 
 
                 public class Patient {
                         @Id @GeneratedValue(strategy =  GenerationType.IDENTITY)
