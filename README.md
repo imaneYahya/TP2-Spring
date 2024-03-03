@@ -14,6 +14,6 @@
           spring.datasource.url=jdbc:h2:mem:patients-db
           spring.h2.console.enabled=true
 
-     ![image](https://github.com/imaneYahya/TP2-Spring/assets/117214055/a1105015-7473-4473-a726-b9eb72d7c08f)
+ https://github.com/imaneYahya/TP2-Spring/issues/1#issue-2165581889
 
 
