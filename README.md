@@ -1,4 +1,4 @@
-                                                                      Activité Pratique N°2 : ORM, Jpa, Hibernate Spring Data
+                                                Activité Pratique N°2 : ORM, Jpa, Hibernate Spring Data
 1/Créer l'entité JPA Patient 
                 public class Patient {
                         @Id @GeneratedValue(strategy =  GenerationType.IDENTITY)
@@ -14,6 +14,6 @@
           spring.datasource.url=jdbc:h2:mem:patients-db
           spring.h2.console.enabled=true
 
- https://github.com/imaneYahya/TP2-Spring/issues/1#issue-2165581889
+https://github.com/imaneYahya/TP2-Spring/issues/1#issue-2165581889
 
 
