@@ -1,4 +1,5 @@
-                                                Activité Pratique N°2 : ORM, Jpa, Hibernate Spring Data
+##Activité Pratique N°2 : ORM, Jpa, Hibernate Spring Data##
+
 1/Créer l'entité JPA Patient 
 
                 public class Patient {
